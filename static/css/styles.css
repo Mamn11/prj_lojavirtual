@@ -1,0 +1,74 @@
+body {
+ background-color: #F2F4FF;
+}
+
+#barra{
+ background-color: #6c756b;
+ margin-bottom: 10px;
+}
+
+
+#pagina{
+ text-align: center;
+}
+
+#sobre{
+ text-align: center;
+}
+
+#carrinhovazio {
+
+  line-height: 1.5cm;
+
+}
+
+#links{
+ margin-top: 0.5px
+}
+
+.navbar{
+ background-color: #96c5f7;
+  margin-bottom: 1cm;
+
+}
+
+#usuario{
+color: #1b1b1b;
+ text-decoration: none
+
+}
+
+#categorias{
+color: #1b1b1b;
+ text-decoration: none
+
+}
+
+#produtos{
+
+
+color: #1b1b1b;
+ text-decoration: none
+
+}
+
+#pedidos{
+
+color: #1b1b1b;
+ text-decoration: none
+
+}
+
+
+#adm {
+  margin-bottom: 1cm
+}
+
+
+#Links_Adm{
+  margin-bottom: 1cm
+
+
+}
+
+
